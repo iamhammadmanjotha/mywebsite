@@ -1,0 +1,28 @@
+*{
+	font-family: 'Poppins', sans-serif;
+}
+.button-class{
+	
+	float: right;
+}
+
+
+.nav-bar{
+	margin-left: -15px; 
+	margin-right: -15px;
+}
+
+
+.main{
+	box-sizing: border-box;
+}
+
+.img1{
+	display: inline-block;
+
+}
+
+.text1{
+	display: inline-block;
+	margin-top: 10px;
+}
